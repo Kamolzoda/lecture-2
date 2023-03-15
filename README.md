@@ -36,7 +36,7 @@
 
 ![](https://miro.medium.com/v2/resize:fit:828/format:webp/1*gHKe3Ru0MjUiBNVnEkRVTA.png)
 
-# What is Hoisting in JS ?
+![](https://avatars.mds.yandex.net/i?id=ef3870cd0d0d33e6c07d4fb21164c62542b767c6-8312133-images-thumbs&n=13)
 
 ## Hoisting in Java Script
 
