@@ -1,5 +1,7 @@
 # Java Script Lecture 2
 
+![](https://avatars.mds.yandex.net/i?id=c3147107a3057944e08b78ad83f3d6a837f70aca-5232391-images-thumbs&n=13)
+
 ## Table of Contents
 
 > - SCOPE
