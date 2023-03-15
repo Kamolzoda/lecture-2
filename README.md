@@ -28,4 +28,8 @@
 
 ## The 3 types of scope
 
-https://avatars.mds.yandex.net/i?id=7e7532691b054eb5b4d9132e97d3931f8a519fc6-8497636-images-thumbs&n=13
+![](https://avatars.mds.yandex.net/i?id=7e7532691b054eb5b4d9132e97d3931f8a519fc6-8497636-images-thumbs&n=13)
+
+## The Scope Chain
+
+![](https://miro.medium.com/v2/resize:fit:828/format:webp/1*gHKe3Ru0MjUiBNVnEkRVTA.png)
